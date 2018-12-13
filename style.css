@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 header {
     position: fixed;
     width: 100%;
@@ -114,3 +115,20 @@ header {
     height: 300px;
     margin: 0 auto;
 }
+=======
+div {
+   background-color: cyan;
+   text-align: center;
+}
+ wrap {
+   font-size: 10;
+ }
+
+blockquote {
+  height: 50px;
+  width:700px;
+  margin: auto; 
+  text-align: center;
+  font-family: sans-serif;
+}
+>>>>>>> 13c75e6e4f6e476124f0eddf01da893b2942989b
