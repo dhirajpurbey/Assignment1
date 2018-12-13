@@ -1,0 +1,15 @@
+div {
+   background-color: cyan;
+   text-align: center;
+}
+ wrap {
+   font-size: 10;
+ }
+
+blockquote {
+  height: 50px;
+  width:700px;
+  margin: auto; 
+  text-align: center;
+  font-family: sans-serif;
+}
